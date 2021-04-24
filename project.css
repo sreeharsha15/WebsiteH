@@ -1,0 +1,37 @@
+.navbar{
+  background-color: #0e49b5;
+  color:#fdfdfd;
+
+}
+.nav-link{
+  color:#fdfdfd;
+}
+.row{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.bottom{
+  display: grid;
+  background-color: #2d4059;
+  grid-template-columns: 2fr 1.65fr 1fr;
+  padding-top: 20px;
+    color: #fdfdfd;
+  padding-bottom: 30px;
+
+}
+.col1
+{
+  padding-left: 50px;
+}
+.btn{
+    background-color: #0e49b5;
+    color:black;
+  padding: 10px 20px 10px 20px;
+  margin-left: 650px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+    color: #fdfdfd;
+}
+body{
+  background-color: #fdfdfd;
+}
