@@ -10,7 +10,7 @@
   padding-top: 50px;
   padding-bottom: 50px;
 }
-.bottom{
+.row-lg-6{
   display: grid;
   background-color: #2d4059;
   grid-template-columns: 2fr 1.65fr 1fr;
